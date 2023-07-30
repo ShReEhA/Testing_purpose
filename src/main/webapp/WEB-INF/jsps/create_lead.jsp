@@ -12,7 +12,7 @@
 	<hr>
 	<form action="save" method="post">
 	<pre>
-		First Name <input type="text" name="firstName"/><br>
+		First Name <input type="text" name="firstName"required/><br>
 		Last Name  <input type="text" name="LastName"/><br>
 		Email      <input type="text" name="email"/><br>
 		mobile     <input type="text" name="mobile"/><br>
